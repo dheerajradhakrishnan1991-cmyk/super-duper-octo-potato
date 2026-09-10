@@ -1,0 +1,10 @@
+{
+  "name": "HYBRID LOTTERY ",
+  "description": "Imported from GitHub: dheerajradhakrishnan1991-cmyk/AD-ASSOCIATE",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
